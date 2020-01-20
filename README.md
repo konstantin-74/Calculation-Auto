@@ -1,2 +1,2 @@
 # Calculation-Auto
---jQuery 
+  jQuery 
